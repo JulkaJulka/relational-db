@@ -1,0 +1,29 @@
+INSERT INTO ORDERS
+VALUES(1004, 'test1', 120,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
+
+INSERT INTO ORDERS
+VALUES(1005, 'test2', 130,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
+
+INSERT INTO ORDERS
+VALUES(1006, 'test3', 120,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
+
+INSERT INTO ORDERS
+VALUES(1007, 'test4', 96,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
+
+INSERT INTO ORDERS
+VALUES(1008, 'test5', 2390,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
+
+INSERT INTO ORDERS
+VALUES(1009, 'test6', 1200,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
+
+INSERT INTO ORDERS
+VALUES(1010, 'test7', 560,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
+
+INSERT INTO ORDERS
+VALUES(1011, 'test8', 765,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
+
+INSERT INTO ORDERS
+VALUES(1012, 'test9', 988,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
+
+INSERT INTO ORDERS
+VALUES(1013, 'test10', 800,TO_DATE('2017/01/09 21:02:44','yyyy/mm/dd hh24:mi:ss'),TO_DATE('2017/01/09 23:02:44','yyyy/mm/dd hh24:mi:ss'));
