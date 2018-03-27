@@ -1,6 +1,0 @@
-UPDATE PRODUCTS
-SET MANUFACTURER_NAME = 'china'
-WHERE NAME = 't-shirt';
-
-
-
